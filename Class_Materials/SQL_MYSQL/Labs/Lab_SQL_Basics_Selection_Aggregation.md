@@ -88,7 +88,7 @@ Expected result:
 
 ```shell
 #id     amount
-2	      80952
+2	    80952
 19	    30276
 25	    30276
 37	    318480
