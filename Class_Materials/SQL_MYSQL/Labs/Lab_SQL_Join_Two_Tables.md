@@ -106,7 +106,7 @@ JOSE	ANDREW	96.75
 IDA	ANDREWS	76.77
 ```
 
-9. Write sql statement to check if you can find any actor who never particiapted in any film. 
+9. Write sql statement to check if you can find any actor who never participated in any film. 
 
 Expect output: no actor found. 
 
