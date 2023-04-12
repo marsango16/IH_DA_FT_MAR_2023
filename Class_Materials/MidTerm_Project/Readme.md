@@ -16,7 +16,7 @@ Until Monday, you are asked to find a topic and a dataset for your project.
      + High-level Planning of the project, e.g:
          - Day 1 - EDA
          - Day 2 - Clean the data
-           - Remove typos of
+           - Remove typos 
            - Correct datatypes
            - ...
         - Day 3 
