@@ -20,7 +20,7 @@
 
 In the previous lab, you had to scrape data about "hot songs". It's critical to be on track with that part, as it was part of the request from the CTO.
 
-If you couldn't finish the first lab, use this time to go back there.
+If you couldn't finish the first lab, use this time to finish it.
 
 **User experience:**
 
